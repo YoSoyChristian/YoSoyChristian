@@ -14,10 +14,10 @@
 I'm a **Software Developer & Backend Developer** with **3.5+ years of experience** building custom Discord bots and automated systems.
 
 - Founder of **LiteWorksStudio**.
-- Creator of **NERION**, a global Discord bot.
+- Creator of **NERION**, a Discord bot currently in development.
 - Focused on backend development, automation, and community systems.
 
-## Projects
+## Current Projects
 
 <table>
   <tr>
