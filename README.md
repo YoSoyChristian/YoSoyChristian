@@ -21,13 +21,18 @@ I'm a **Software Developer & Backend Developer** with **3.5+ years of experience
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
+      <img src="./assets/liteworks-logo.png" width="100" alt="LiteWorksStudio Logo" />
       <h3>LiteWorksStudio</h3>
-      Independent software development startup focused on custom software, Discord bots, and automation solutions.
+      <p align="left">
+        Independent software development startup focused on custom software,
+        Discord bots, and automation solutions.
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>NERION</h3>
-      Global Discord bot featuring advanced tickets, moderation, community commands, giveaways, and events.
+      Global Discord bot featuring advanced tickets, moderation, community
+      commands, giveaways, and events.
     </td>
   </tr>
 </table>
